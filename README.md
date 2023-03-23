@@ -1,7 +1,7 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Nitish!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
@@ -53,4 +53,4 @@ npx nitish
     <a href="https://nitishawasthi.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
-⭐️ From [Nitish-Awasthi](https://github.com/Nitish-Awasthi)
+⭐️ From [Nitish-Awasthi](https://github.com/Nitish95087)
