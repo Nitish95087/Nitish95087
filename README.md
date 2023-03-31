@@ -3,8 +3,8 @@
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
 - 🔭 I build projects in free time @ [CodersGyan YouTube channel][website]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Reach 100K family at Coder's Gyan. 
+- 👯 I’m looking for internship for full stack developer
+- 🥅 2023 Goals: Get a job in good company.
 
 ### Connect with me:
 
@@ -34,7 +34,3 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-
-
-
